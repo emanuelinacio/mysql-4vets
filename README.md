@@ -4,6 +4,8 @@
 
 ###### Abaixo algumas explicações do projeto
 
+>Está configurado o diretório ***C:\temp\docker\DOCKER_PHP\API\DB\data*** para alocação do volume do banco de dados
+
 >O Dockerfile está copiando os arquivos para importação da pasta raiz para pasta **/var/lib/mysql-files/sales_rep**
 
 ```
