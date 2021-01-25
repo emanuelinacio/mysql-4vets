@@ -1,0 +1,13 @@
+version: '3.9'
+
+services:
+  mysql-container:
+    build: .
+    container_name: mysql-container
+    image: mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: "pass"
+    ports:
+      - "3306:3306"
+    volumes:
+      - C:\temp\docker\DOCKER_PHP\API\DB\data:/var/lib/mysql

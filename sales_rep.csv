@@ -1,0 +1,65 @@
+ tipo de negócio|id_remoto_cliente|id_remoto_tabela|id_remoto_representante|id_remoto_ramo_de_atividade|nome|razao_social|nome_fantasia|cnpj|cpf|isento|inscricao_estadual|logradouro|numero|complemento|bairro|cep|cidade|uf|telefone|email|status|data_da_ultima_compra|valor_da_ultima_compra|inadimplente|Marcas Vendidas
+3|3|1|3||ADRIANA|||||0||R MARANHAO, 350       |||MEIER                         |20720-230|RJ - RIO DE JANEIRO           |RJ|(21)96736-0783|coordenacao@novapraxedes.com.br|0|||0|Amici,Labyes,Like Pet,Organnact
+3|4|1|4||ALEX GUEDES|||||0||R FRANCISCO NEIVA, 171       |||MARIA DA GRACA                |20785-490|RJ - RIO DE JANEIRO           |RJ|(21)99497-4822|alex.guedes@novapraxedes.com.br|0|||0|Amici,Organnact
+3|6|1|6||BONIFICACAO|||||0||R PEDRO ERNESTO, 58        |||GAMBOA                        |20220-350|RJ - RIO DE JANEIRO           |RJ|(21)2233-8621|contato@novapraxedes.com.br|1|||0|Labyes,Like Pet,Organnact
+3|7|1|7||FREDERICO CARDOSO|||||0||EST PACUI, 300       |||VARGEM GRANDE                 |22785-160|RJ - RIO DE JANEIRO           |RJ|(21)99498-2813|frederico.cardoso@novapraxedes.com.br|0|||0|Amici,Like Pet
+3|9|1|9||DEBORAH|||||0||R ESPERANCA, 137       |||VARGEM GRANDE                 |22785-590|RJ - RIO DE JANEIRO           |RJ|(21)99224-4015|supervisao@novapraxedes.com.br|0|||0|Labyes,Like Pet,Organnact
+3|10|1|10||GERSON SARAMAGO|||||0||R ALVARO MIRANDA, 773       |||PILARES                       |20760-000|RJ - RIO DE JANEIRO           |RJ|(21)99498-2806|gerson.saramago@novapraxedes.com.br|0|||0|Amici,Organnact
+3|11|1|11||GIANCARLO MALTAURO|||||0||R MEM DE SA, 82        |||ICARAI                        |24220-261|RJ - NITEROI                  |RJ|(21)99498-2815|giancarlo.maltauro@novapraxedes.com.br|0|||0|Organnact
+3|13|1|13||ISABEL MACHADO|||||0||TV CAPITAO ZEFERINO, 56        |||ICARAI                        |24220-230|RJ - NITEROI                  |RJ|(21)97266-9051|isabel.machado@novapraxedes.com.br|1|||0|Amici,Like Pet
+3|14|1|14||JOSIANE FONTES|||||0||R MIL E TRINTA E SETE-A, 93        |||VOLTA GRANDE III              |27211-780|RJ - VOLTA REDONDA            |RJ|(24)99936-7106|josiane.fontes@praxedesdistribuidora.com.br|1|||0|Labyes,Like Pet
+3|15|1|15||KEYTE FOLGADO|||||0||R VISCONDE DE ITAMARATI, 150       |||MARACANA                      |20550-140|RJ - RIO DE JANEIRO           |RJ|(21)97292-0917|keyte.folgado@praxedesdistribuidora.com.br|1|||0|Like Pet
+3|16|1|16||KRIS MORAES|||||0||R JORNALISTA HENRIQUE CORDEIRO, 310       |||BARRA DA TIJUCA               |22631-450|RJ - RIO DE JANEIRO           |RJ|(21)99388-2751|kris.moraes@novapraxedes.com.br|0|||0|Amici,Labyes,Like Pet,Organnact
+3|18|1|18||LEILANI PERLINGEIRO|||||0||Rua Geraldo Martins, 155 APTO. 1603|||Icaraí|24220-380|Niterói|RJ|(21)99497-4831|leilani.perlingeiro@novapraxedes.com.br|1|||0|Labyes
+3|19|1|19||TELEVENDAS|||||0||R PEDRO ERNESTO, 58        |||SAUDE                         |20220-350|RJ - RIO DE JANEIRO           |RJ|(21)2233-8621 |contato@novapraxedes.com.br|1|||0|Amici,Like Pet
+3|20|1|20||MARCO AURELIO|||||0||R DAS, AMENDOEIRAS, Q 24      |||CAMINHO DE BUZIOS             |28921-100|RJ - CABO FRIO                |RJ||marcoaurelio.sena@novapraxedes.com.br|0|||0|Amici
+3|21|1|21||LUCIANA CHAGAS|||||0||EST MIRANDELA, 786       |||CENTRO                        |26520-332|RJ - NILOPOLIS                |RJ|(21)99497-4836|baixada01@novapraxedes.com.br|0|||0|Labyes
+3|22|1|22||MERY MEDEIROS|||||0||R MARCILIO DIAS, 24        |||COELHO DA ROCHA               |25555-000|RJ - SAO JOAO DE MERITI       |RJ|(21)99700-5328|mery.medeiros@novapraxedes.com.br|0|||0|Amici,Organnact
+3|23|1|23||MARCELLE - MICHELLE|||||0||R JAIME PERDIGAO, 477       |||MONERO                        |21920-240|RJ - RIO DE JANEIRO           |RJ|(21)99420-9488|michelle.passos@novapraxedes.com.br|0|||0|Organnact
+3|24|1|24||MONIQUE REIS|||||0||R JAGUARIBE, 795       |||FAZENDINHA                    |25955-040|RJ - TERESOPOLIS              |RJ|(21)99397-2512|monique.vilela@novapraxedes.com.br|0|||0|Amici,Like Pet
+3|25|1|25||NATHALIA GUEDES|||||0||R SEBASTIAO MARTINS GONCALVES, 8         |||QUATIS                        |27410-160|RJ - QUATIS                   |RJ|(24)99924-8025|nathalia.guedes@novapraxedes.com.br|0|||0|Like Pet
+3|26|1|26||PATRICIA ALVARENGA|||||0||R  LORENÇO AUGUSTO RUSSO, 45        |||GRUSSAI                       |28200-000|RJ - SAO JOAO DA BARRA        |RJ|(22)99755-0478|patricia.alvarenga@novapraxedes.com.br|1|||0|Labyes,Like Pet
+3|27|1|27||PATRICIA ALVIM|||||0||R JOSE BONIFACIO, 407       |||CENTRO                        |28907-110|RJ - CABO FRIO                |RJ|(22)99749-7687|patricia.alvim@novapraxedes.com.br|1|||0|Labyes
+3|28|1|28||PAULO CASTOLDI|||||0||R BARAO DO BOM RETIRO, 2708      |||GRAJAU                        |20540-342|RJ - RIO DE JANEIRO           |RJ|(21)99497-4854|paulo.castoldi@novapraxedes.com.br|0|||0|Like Pet,Organnact
+3|29|1|29||PERDAS E VENCIDOS|||||0||R PEDRO ERNESTO, 58        |||GAMBOA                        |20220-350|RJ - RIO DE JANEIRO           |RJ|(21)2233-8621|contato@novapraxedes.com.br|1|||0|Amici,Organnact
+3|30|1|30||TECNICO 01|||||0||Rua Alves do Vale|||Vila Valqueire|21330-110|Rio de Janeiro|RJ|(21)99363-7144|tecnico@novapraxedes.com.br|0|||0|Labyes
+3|31|1|31||RAQUEL CARVALHO|||||0||R PRAZERES, DOS, 275       |||TAQUARA                       |22710-045|RJ - RIO DE JANEIRO           |RJ|(21)99498-2814|raquel.carvalho@novapraxedes.com.br|1|||0|Labyes,Like Pet
+3|32|1|32||REMANEJAMENTO|||||0||R PEDRO ERNESTO|||GAMBOA                        |20220-350|RJ - RIO DE JANEIRO           |RJ|(21)2233-8621|contato@novapraxedes.com.br|1|||0|Amici
+3|33|1|33||BRUNO TRINDADE|||||0||R PROFESSOR GABISO, 8         |||TIJUCA                        |20271-060|RJ - RIO DE JANEIRO           |RJ|(21)99497-4807|bruno.trindade@praxedesdistribuidora.com.br|1|||0|Amici,Labyes,Like Pet,Organnact
+3|34|1|34||TECNICO 11|||||0||R SANTA CLARA, 256       |||COPACABANA                    |22041-012|RJ - RIO DE JANEIRO           |RJ|(21)97269-1869|tathiana.doria@novapraxedes.com.br|0|||0|Labyes,Like Pet
+3|35|1|35||THAIS FAGUNDES|||||0||R DEGAS, 400       |||DEL CASTILHO                  |20771-580|RJ - RIO DE JANEIRO           |RJ|(21)99564-1772|thais.fagundes@praxedesdistribuidora.com.br|0|||0|Labyes,Organnact
+3|36|1|36||VENDAS BALCAO|||||0||R MARECHAL AGUIAR, 26        |||BENFICA                       |20920-280|RJ - RIO DE JANEIRO           |RJ|(21)2233-8621|contato@novapraxedes.com.br|1|||0|Labyes,Like Pet,Organnact
+3|37|1|37||VERBA|||||0||R MARECHAL AGUIAR, 26        |||BENFICA                       |20920-280|RJ - RIO DE JANEIRO           |RJ|(21)2233-8621|contato@novapraxedes.com.br|1|||0|Labyes
+3|38|1|38||MARLON CARVALHO|||||0||Rua General Bruce|||São Cristóvão|20921-030|Rio de Janeiro|RJ|(22)99749-5715|marlon.antunes@novapraxedes.com.br|0|||0|Amici,Organnact
+3|39|1|39||MARCIA PORTES|||||0||Rua Mapendi, 730 bloco 1 apto 610|||Jacarepaguá|22710-255|Rio de Janeiro|RJ|(21)99498-2811|contato@novapraxedes.com.br|1|||0|Amici
+3|40|1|40||VENDA FUNCIONARIO|||||0||Rua Marechal Aguiar, 26|||Benfica|20920-280|Rio de Janeiro|RJ|(21)2233-8621|contato@novapraxedes.com.br|1|||0|Amici,Labyes
+3|44|1|44||GISELLE SAMPAIO|||||0||Rua Angra dos Reis|||Penha|21070-240|Rio de Janeiro|RJ|(21)99498-2808|tmkt2@novapraxedes.com.br|1|||0|Organnact
+3|52|1|52|||||||0||RUA MARECHAL AGUIAR, 26|||BENFICA|RJ|Rio de Janeiro|RJ|(21)2233-8621|contato@novapraxedes.com.br|1|||0|Amici,Like Pet
+3|53|1|53||TROCAS SAC - SELECTA|||||0||RUA MARECHAL AGUIAR, 26|||Benfica|20920-280|Rio de Janeiro|RJ|(21)2233-8621|contato@novapraxedes.com.br|1|||0|Like Pet
+3|55|1|55||MARCELLE|||||0||Rua Conselheiro Ferraz, 89 APTO. 102|||Lins de Vasconcelos|20710-350|Rio de Janeiro|RJ|(21)99978-549|marcelleubaldo@gmail.com|0|||0|Amici,Labyes,Like Pet,Organnact
+3|56|1|56||VendPrecoCusto|||||0|||||||||||1|||0|Amici,Labyes,Like Pet,Organnact
+3|57|1|57||VendPrecoFunci|||||0|||||||||||1|||0|Amici,Labyes,Like Pet,Organnact
+3|58|1|58||VendPrecoConsumoFinal|||||0|||||||||||1|||0|Amici,Labyes,Like Pet,Organnact
+3|59|1|59||VendPrecoBaixa|||||0|||||||||||1|||0|Amici,Labyes,Like Pet,Organnact
+3|60|1|60||ZONA OESTE 03|||||0||Rua Marechal Aguiar|||Benfica|20920-280|Rio de Janeiro|RJ||contato@novapraxedes.com.br|0|||0|Amici
+3|61|1|61||JULIO CESAR|||||0||Avenida Arquiteto Afonso Reidy, 351 APTO. 301|||Barra da Tijuca|22620-270|Rio de Janeiro|RJ|(21)99971-2281|juliosgomes@yahoo.com.br|1|||0|Amici,Labyes,Like Pet,Organnact
+3|62|1|62||DOUGLAS CARVALHO|||||0||Avenida Delfim Moreira, 2051 APTO 307|||Vale do Paraíso|25976-016|Teresópolis|RJ|(21)98172-9444|douglascarvalhof@hotmail.com|1|||0|Like Pet,Organnact
+3|63|1|63||DOUGLAS LOYOLA|||||0||Rua Guaiamu, 28 CASA 02|||Colégio|21235-300|Rio de Janeiro|RJ|(21)98521-9624|mvdouglasloyola@gmail.com|0|||0|Organnact
+3|64|1|64||RICARDO BENICIO|||||0||Rua Celso de Maia Fonseca, 33 APTO. 404|||Manguinhos|21041-590|Rio de Janeiro|RJ|(21)98403-4211|ricardo.labenicio@gmail.com|0|||0|Labyes,Like Pet
+3|65|1|65||CAROL|||||0||Rua Marechal Aguiar, 26|||Benfica|20920-280|Rio de Janeiro|RJ|(21)2233-8621|carolina.santoro.cs@gmail.com|0|||0|Like Pet,Organnact
+3|66|1|66||CHARLES FERNANDES|||||0||Rua São José, 149|||Centro|26310-100|Queimados|RJ|(21)97652-6414|charles_cj7@hormail.com|0|||0|Labyes,Organnact
+3|68|1|68||WILLIAM SANTOS|||||0||Rua Iliada, 44 |||Vale do Ipê|26180-270|Belford Roxo|RJ|(21)96696-1015|williamsoaresdossantos@hotmail.com|0|||0|Amici
+3|70|1|70||JULIANA MENDES|||||0||Rua do Fialho, 15 APTO 410|||Glória|20241-160|Rio de Janeiro|RJ|(21)97193-9947|juliana.mendes@novapraxedes.com.br|1|||0|Amici,Labyes,Like Pet,Organnact
+3|71|1|71||FLAVIO BINDI|||||0||Rua Coxito Granado, 48|||Campo Grande|23045-380|Rio de Janeiro|RJ|(21)97979-7209|flavio.bindi@novapraxedes.com.br|0|||0|Labyes
+3|72|1|72||AMANDA SILVA|||||0||Estrada Pacui, 696 CASA 13|||Vargem Grande|22785-160|Rio de Janeiro|RJ|(21)2289-2722|amanda.silva@novapraxedes.com.br|0|||0|Organnact
+3|73|1|73||ADRIANA ARAUJO|||||0||Rua Paula Brito, 534|||Andaraí|20541-190|Rio de Janeiro|RJ|(21)97183-0061|adriana.araujo@novapraxedes.com.br|1|||0|Labyes,Like Pet
+3|74|1|74||MARCIA NASCIMENTO|||||0||Rua Pintassilgos, 50|||Campo Grande|23075-280|Rio de Janeiro|RJ|(21)98903-0820|marcia.nascimento@novapraxedes.com.br|1|||0|Like Pet
+3|75|1|75||LUIZ COSTA|||||0||Rua Projetada A, 351|||SANTA CRUZ DA SERRA|25255-220|Duque de Caxias|RJ|(21)96425-6128|luiz.costa@novapraxedes.com.br|1|||0|Amici,Labyes
+3|76|1|76||MICHELLE ATALLA|||||0||RUA VEREADOR JOSE VICENTE SOBRINHO, 246 CASA 26|||ENGENHOCA|24110-137|NITEROI|RJ|(21)98132-0724|michelle.atalla@novapraxedes.com.br|1|||0|Labyes,Organnact
+3|77|1|77||JULLIANA MORAES|||||0||Estrada do Grande Circuito, 300|||Parque do Imbui|25970-480|Teresópolis|RJ|(21)9640-2896|julliana.moraes@novapraxedes.com.br|1|||0|Labyes
+3|78|1|78||KASSIANA SILVA|||||0||Rua Pirinápolis, 83|||Rio do Ouro|24753-060|São Gonçalo|RJ|(21)98293-2723|kassiana.silva@novapraxedes.com.br|1|||0|Amici,Labyes,Like Pet,Organnact
+3|79|1|79||CAROLINA OLIVEIRA|||||0||Rua Viúva Dantas, 408 APTO. 106|||Campo Grande|23052-090|Rio de Janeiro|RJ|(21)99240-3120|carolina.oliveira@novapraxedes.com.br|1|||0|Labyes
+3|80|1|80||JOAO VITOR PINA|||||0||Rua Souza Caldas, 66|||Jardim Panamá|25080-680|Duque de Caxias|RJ|(21)96499-4253|joaovitor.pina@novapraxedes.com.br|1|||0|Amici,Organnact
+3|81|1|81||ADRIZA TEIXEIRA|||||0||Rua Domingos José Martins, 398 GALPAO 09|||Bonsucesso|25725-110|Petrópolis|RJ|(24)2237-7410|tmkt2@novapraxedes.com.br|1|||0|Organnact
+3|82|1|82||ATACADO|||||0||Rua Domingos José Martins, 398 GALPAO 02|||Bonsucesso|25725-110|Petrópolis|RJ|(24)2237-7410|contato@novapraxedes.com.br|1|||0|Amici
+3|83|1|83||INADIMPLENTE|||||0||Rua Domingos José Martins, 398 GALPAO 02|||DOMINGOS JOSÉ MARTINS|110|Petrópolis|RJ|(24)2237-7410|contato@novapraxedes.com.br|1|||0|Amici,Labyes,Like Pet,Organnact
